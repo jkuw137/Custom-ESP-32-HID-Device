@@ -1,5 +1,7 @@
 # USB HID Productivity Controller
 
+<img width="898" height="723" alt="image" src="https://github.com/user-attachments/assets/6621ffe1-2eb3-4a43-944c-484a462e5497" />
+
 This project is a custom-designed USB Human Interface Device (HID) intended to improve productivity by providing programmable physical controls for common computer shortcuts, macros, and application-specific commands. Inspired by commercial workflow controllers, the device combines mechanical design, embedded systems, and electronics into a compact and ergonomic desktop peripheral.
 
 The project was undertaken to develop practical skills across multiple engineering disciplines, including CAD, embedded programming, electronics integration, rapid prototyping, and iterative product development. The final design aims to provide an intuitive and customizable interface while maintaining a clean, manufacturable, and serviceable construction.
@@ -47,6 +49,9 @@ Multiple enclosure concepts and control layouts were explored through sketches a
 - Internal packaging constraints.
 - Manufacturing and assembly simplicity.
 
+<img width="2268" height="1853" alt="IMG_1418" src="https://github.com/user-attachments/assets/11e79fac-31e6-4976-b677-c47d7d26af7e" />
+Testing various button arrangments to assess comfort and ergonimics.
+
 Several iterations were evaluated before selecting the final configuration.
 
 ### 3. Mechanical Design
@@ -74,19 +79,46 @@ Software functionality includes:
 - USB HID communication.
 - Configurable key mapping.
 
+<img width="567" height="1008" alt="IMG_0945" src="https://github.com/user-attachments/assets/206c222a-f66f-4994-a247-7c8c540a0964" />
+
+Initial testing of code and Microcontroller
+
 The firmware was written with modularity in mind to simplify future feature additions.
 
 ### 5. Prototyping and Testing
 Successive prototypes were produced using additive manufacturing to validate:
 
 - Ergonomics.
-- Assembly process. 
+- Assembly. 
 - Structural integrity.
 - Component fit.
 - Input responsiveness.
 - Overall usability.
 
+<img width="2268" height="2806" alt="IMG_1385" src="https://github.com/user-attachments/assets/0b0eeee0-d923-445b-aa7d-2f989340be25" />
+Desoldering and recycling components.
+
+
+<img width="2016" height="1134" alt="IMG_1350" src="https://github.com/user-attachments/assets/ef4f1ff9-8b84-42a2-aa91-bbcd653f2048" />
+Testing all buttons and encoders as an integrated sysyem.
+
+
+<img width="1134" height="1230" alt="IMG_1937" src="https://github.com/user-attachments/assets/bc0c02b7-cdb9-44ea-aef3-db09b73a1955" />
+Initial testing of hardware features and assembly such as the buttons and scroll wheel.
+
+
+<img width="1134" height="2016" alt="IMG_1995" src="https://github.com/user-attachments/assets/e0393e7e-7827-4bce-859f-145f628f6b75" />
+Electronic hardware manufacuring.
+
 Feedback from testing informed several design revisions prior to the current iteration.
+
+## Current (Final) Working Design
+
+<img width="4284" height="5712" alt="IMG_2355" src="https://github.com/user-attachments/assets/bbc2435f-855a-4b56-b4fd-5f42b3ea6ad2" />
+<img width="5712" height="4284" alt="IMG_2357" src="https://github.com/user-attachments/assets/3408ee37-2eaf-44bd-bbc8-b8d3bbc5345b" />
+<img width="5712" height="4284" alt="IMG_2358" src="https://github.com/user-attachments/assets/9247dcb9-ce0d-474e-aa8c-1fc15262fb5c" />
+
+
 
 ## Skills Demonstrated
 
