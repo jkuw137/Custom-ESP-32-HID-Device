@@ -44,10 +44,10 @@ Existing commercial workflow controllers were analysed to identify common design
    
 Multiple enclosure concepts and control layouts were explored through sketches and CAD modelling. Particular attention was given to:
 
-- and ergonomics.
+- Hand ergonomics.
 - Button accessibility.
 - Internal packaging constraints.
-- Manufacturing and assembly simplicity.
+- Manufacturing and assembly limitations.
 
 <img width="2268" height="1853" alt="IMG_1418" src="https://github.com/user-attachments/assets/11e79fac-31e6-4976-b677-c47d7d26af7e" />
 Testing various button arrangments to assess comfort and ergonimics.
