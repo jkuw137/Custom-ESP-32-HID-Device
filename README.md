@@ -94,22 +94,28 @@ Successive prototypes were produced using additive manufacturing to validate:
 - Component fit.
 - Input responsiveness.
 - Overall usability.
+  
 <br>
 <img width="2268" height="2806" alt="IMG_1385" src="https://github.com/user-attachments/assets/0b0eeee0-d923-445b-aa7d-2f989340be25" />
 Desoldering and recycling components.
+<p></p>
 <br>
 
 <img width="2016" height="1134" alt="IMG_1350" src="https://github.com/user-attachments/assets/ef4f1ff9-8b84-42a2-aa91-bbcd653f2048" />
 Testing all buttons and encoders as an integrated sysyem.
+<p></p>
 <br>
 
 <img width="1134" height="1230" alt="IMG_1937" src="https://github.com/user-attachments/assets/bc0c02b7-cdb9-44ea-aef3-db09b73a1955" />
 Initial testing of hardware features and assembly such as the buttons and scroll wheel.
+<p></p>
 <br>
 
 <img width="1134" height="2016" alt="IMG_1995" src="https://github.com/user-attachments/assets/e0393e7e-7827-4bce-859f-145f628f6b75" />
 Electronic hardware manufacuring.
+<p></p>
 <br>
+
 Feedback from testing informed several design revisions prior to the current iteration.
 
 ## Final Operational Design
