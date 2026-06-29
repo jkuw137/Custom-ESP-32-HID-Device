@@ -11,7 +11,7 @@ The project was undertaken to develop practical skills across multiple engineeri
 - Create an ergonomic layout that minimizes hand movement during repetitive tasks.
 - Develop firmware capable of emulating standard USB keyboard and multimedia inputs.
 - Design an enclosure suitable for additive manufacturing.
-- Produce a modular design that can be easily assembled, maintained, and modified.
+- Produce a design that can be easily assembled, maintained, and modified.
 
 This project involved:
 
@@ -25,7 +25,7 @@ This project involved:
 - USB-C HID functionality, compatibility tested with Windows and IOS
 - Programmable buttons and encoders for keyboard shortcuts and macros.
 - Ergonomic enclosure designed using Autodesk Fusion.
-- Modular internal construction for simplified assembly and maintenance.
+- Modular construction for simplified assembly and maintenance.
 - 3D printable housing optimised for desktop manufacturing.
 
 ## Engineering Design Process
