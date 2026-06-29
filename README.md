@@ -22,7 +22,7 @@ This project involved:
 - Manufacturing and assembling the final device using 3D printed components
   
 ## Features
-- Custom USB HID functionality, compatibility tested with Windows and IOS
+- USB-C HID functionality, compatibility tested with Windows and IOS
 - Programmable buttons and encoders for keyboard shortcuts and macros.
 - Ergonomic enclosure designed using Autodesk Fusion.
 - Modular internal construction for simplified assembly and maintenance.
